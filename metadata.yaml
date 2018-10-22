@@ -1,5 +1,5 @@
 _repo: Divina-Commedia-di-Dante-Purgatorio_998
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   adapter:
     agent_name: Dante Alighieri
@@ -24,5 +24,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Divina Commedia di Dante: Purgatorio'
 url: http://www.gutenberg.org/ebooks/998
